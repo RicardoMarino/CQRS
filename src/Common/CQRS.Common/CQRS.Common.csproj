@@ -6,10 +6,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+
     <ItemGroup>
-      <PackageReference Include="MongoDB.Driver" Version="2.21.0" />
+      <ProjectReference Include="..\..\Core\CQRS.Core\CQRS.Core.csproj" />
     </ItemGroup>
-
-
 
 </Project>
