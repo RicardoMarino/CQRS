@@ -8,12 +8,13 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\Core\CQRS.Core\CQRS.Core.csproj" />
-      <ProjectReference Include="..\CQRS.Commnad.Domain\CQRS.Commnad.Domain.csproj" />
+      <ProjectReference Include="..\CQRS.Command.Domain\CQRS.Command.Domain.csproj" />
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="Confluent.Kafka" Version="2.2.0" />
       <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
     </ItemGroup>
+
 
 </Project>
