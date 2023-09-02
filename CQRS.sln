@@ -8,7 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Query", "Query", "{230A92B0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Command.Api", "src\Command\CQRS.Command.Api\CQRS.Command.Api.csproj", "{220296AB-2952-41A9-9E20-9FEB7961B55B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Commnad.Domain", "src\Command\CQRS.Commnad.Domain\CQRS.Commnad.Domain.csproj", "{732845D7-D987-4744-93EE-2DF7B0BFCBCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Command.Domain", "src\Command\CQRS.Command.Domain\CQRS.Command.Domain.csproj", "{732845D7-D987-4744-93EE-2DF7B0BFCBCB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Command.Infrastructure", "src\Command\CQRS.Command.Infrastructure\CQRS.Command.Infrastructure.csproj", "{ACA6633A-9DD3-4DD7-9CC7-FDEF1871F42A}"
 EndProject

@@ -8,7 +8,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\Core\CQRS.Core\CQRS.Core.csproj" />
-      <ProjectReference Include="..\CQRS.Commnad.Domain\CQRS.Commnad.Domain.csproj" />
+      <ProjectReference Include="..\CQRS.Command.Domain\CQRS.Command.Domain.csproj" />
     </ItemGroup>
 
     <ItemGroup>
