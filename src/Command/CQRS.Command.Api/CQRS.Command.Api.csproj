@@ -23,6 +23,8 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\Core\CQRS.Core\CQRS.Core.csproj" />
+      <ProjectReference Include="..\..\Query\CQRS.Query.Infrastructure\CQRS.Query.Infrastructure.csproj" />
+      <ProjectReference Include="..\CQRS.Command.Infrastructure\CQRS.Command.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>
